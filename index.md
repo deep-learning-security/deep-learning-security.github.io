@@ -42,7 +42,7 @@ For more information, [sign up on the mailing list](https://groups.google.com/d/
 
 **1:00 - 2:00pm** - Invited talk: [Machine Learning in Computer Security for Fun and Profit: Password Meters, Face Recognition and Online Tracking](#machine-learning-in-computer-security-for-fun-and-profit-password-meters-face-recognition-and-online-tracking). Lujo Bauer.
 
-**2:00 - 3:00pm** - Invited talk: [Security Applications of Deep Learning](#security-applications-of-deep-learning). Zhifeng Geng and Xiaodong Su.
+**2:00 - 3:00pm** - Invited talk: [Discover Maliciousness Among URLs: A Deep Learning Approach](#discover-maliciousness-among-urls-a-deep-learning-approach). Zhifeng Geng and Xiaodong Su.
 
 **3:00 - 3:30pm** - Break
 
@@ -95,7 +95,7 @@ Dr. Bauer recently served as the program chair for the flagship computer securit
 conferences of the IEEE (S&P 2015) and the Internet Society (NDSS 2014) and is an
 associate editor of ACM Transactions on Information and System Security.
 
-#### Security Applications of Deep Learning
+#### Discover Maliciousness Among URLs: A Deep Learning Approach
 
 **Abstract:** Malicious web sites are one of the cornerstone of cyber criminal actions.
 It is estimated that there are nearly 1 billion malicious URLs, and more than 100 of
