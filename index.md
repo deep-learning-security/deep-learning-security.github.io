@@ -30,23 +30,23 @@ For more information, [sign up on the mailing list](https://groups.google.com/d/
 
 **Feb 19**
 
-**9:00 - 9:10am** - Overview of the workshop
+**9:00 - 9:10am** - Overview of the workshop. *Dawn Song.*
 
-**9:10 - 10:10am** - Introduction and overview of deep learning and security
+**9:10 - 10:10am** - Introduction and overview of deep learning and security. *Dawn Song.*
 
 **10:10 - 10:30am** - Break
 
-**10:30 - 12:00** - Introduction and overview of adversarial deep learning
+**10:30 - 12:00** - Introduction and overview of adversarial deep learning. *Chan Liu and Dawn Song.*
 
 **12:00 - 1:00pm** - Lunch
 
-**1:00 - 2:00pm** - Invited talk: [Machine Learning in Computer Security for Fun and Profit: Password Meters, Face Recognition and Online Tracking](#machine-learning-in-computer-security-for-fun-and-profit-password-meters-face-recognition-and-online-tracking). Lujo Bauer.
+**1:00 - 2:00pm** - Invited talk: [Machine Learning in Computer Security for Fun and Profit: Password Meters, Face Recognition and Online Tracking](#machine-learning-in-computer-security-for-fun-and-profit-password-meters-face-recognition-and-online-tracking). *Lujo Bauer.*
 
-**2:00 - 3:00pm** - Invited talk: [Discover Maliciousness Among URLs: A Deep Learning Approach](#discover-maliciousness-among-urls-a-deep-learning-approach). Zhifeng Geng and Xiaodong Su.
+**2:00 - 3:00pm** - Invited talk: [Discover Maliciousness Among URLs: A Deep Learning Approach](#discover-maliciousness-among-urls-a-deep-learning-approach). *Zhifeng Geng and Xiaodong Su.*
 
 **3:00 - 3:30pm** - Break
 
-**3:30 - 5:00pm** - Hands-on lab
+**3:30 - 5:00pm** - Hands-on lab. *Chang Liu and Jernej Kos.*
 
 **5:00 - 5:00pm Feb 20** - Hackathon
 
