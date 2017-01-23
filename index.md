@@ -36,7 +36,7 @@ For more information, [sign up on the mailing list](https://groups.google.com/d/
 
 **10:10 - 10:30am** - Break
 
-**10:30 - 12:00** - Introduction and overview of adversarial deep learning. *Chan Liu and Dawn Song.*
+**10:30 - 12:00** - Introduction and overview of adversarial deep learning. *Chang Liu and Dawn Song.*
 
 **12:00 - 1:00pm** - Lunch
 
@@ -49,6 +49,8 @@ For more information, [sign up on the mailing list](https://groups.google.com/d/
 **3:30 - 5:00pm** - Hands-on lab. *Chang Liu and Jernej Kos.*
 
 **5:00 - 5:00pm Feb 20** - Hackathon
+
+<br/>
 
 # Invited Talks
 
