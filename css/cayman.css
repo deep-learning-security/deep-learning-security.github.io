@@ -242,3 +242,13 @@ a {
 
 .site-footer-credits {
   color: #819198; }
+
+.instructorphoto img { width: 120px; border-radius: 120px; margin-bottom: 10px; }
+
+.instructor { display: inline-block; width: 120px; text-align: center; margin-right: 20px; }
+
+.instructors {
+  display: flex;
+  justify-content: space-around;
+  padding-bottom: 45px;
+}

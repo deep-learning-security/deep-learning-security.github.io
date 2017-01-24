@@ -26,6 +26,56 @@ detection and fraud detection
 
 For more information and future announcements in deep learning and security, [sign up on the mailing list](https://groups.google.com/d/forum/deep-learning-security).
 
+# Speakers and instructors
+
+**Program chair:** Dawn Song
+
+**Invited speakers:** Lujo Bauer, Zhifeng Geng, Xiaodong Su
+
+**Lab and hackathon instructors:** Chang Liu, Jernej Kos
+
+<div class="instructors">
+<div class="instructor">
+  <a href="https://people.eecs.berkeley.edu/~dawnsong/">
+  <div class="instructorphoto"><img src="/assets/people/dawnsong.jpg" /></div>
+  <div>Dawn Song</div>
+  </a>
+</div>
+<div class="instructor">
+  <a href="https://www.ece.cmu.edu/~lbauer/">
+  <div class="instructorphoto"><img src="/assets/people/lujo.jpg" /></div>
+  <div>Lujo Bauer</div>
+  </a>
+</div>
+<div class="instructor">
+  <a href="#">
+  <div class="instructorphoto"><img src="/assets/people/empty.png" /></div>
+  <div>Zhifeng Geng</div>
+  </a>
+</div>
+</div>
+
+<div class="instructors">
+<div class="instructor">
+  <a href="#">
+  <div class="instructorphoto"><img src="/assets/people/empty.png" /></div>
+  <div>Xiaodong Su</div>
+  </a>
+</div>
+<div class="instructor">
+  <a href="https://people.eecs.berkeley.edu/~liuchang/">
+  <div class="instructorphoto"><img src="/assets/people/empty.png" /></div>
+  <div>Chang Liu</div>
+  </a>
+</div>
+<div class="instructor">
+  <a href="https://unico.re">
+  <div class="instructorphoto"><img src="/assets/people/jernej.png" /></div>
+  <div>Jernej Kos</div>
+  </a>
+</div>
+</div>
+
 # Schedule
 
 **Feb 19**
