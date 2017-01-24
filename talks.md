@@ -31,7 +31,7 @@ online tracking. We show that understanding this in detail makes it
 feasible to use classifiers to selectively stop unwanted online
 tracking while still allowing its beneficial uses.
 
-**Author bio:** *Lujo Bauer* is an Associate Professor in the Electrical and
+**Speaker bio:** *Lujo Bauer* is an Associate Professor in the Electrical and
 Computer Engineering Department and in the Institute for Software Research at
 Carnegie Mellon University. He received his B.S. in Computer Science from Yale
 University in 1997 and his Ph.D., also in Computer Science, from Princeton
@@ -65,7 +65,7 @@ malicious URL detection in production environment, using both text and image fea
 And we will also give some thoughts on practical threat intelligence system construction,
 model adversary in URL detection and AI+Security. 
 
-**Author bio:** *Zhifeng Geng* leads the Cloud Detection team in Baidu Security. He mainly
+**Speaker bio:** *Zhifeng Geng* leads the Cloud Detection team in Baidu Security. He mainly
 focuses in the Threat Intelligence construction and application. He is an expert of
 detecting different types of Internet abuses including malicious URLs, SMS, harassing
 phone numbers, fake-WiFi, as well as website vulnerabilities. He is leading the efforts

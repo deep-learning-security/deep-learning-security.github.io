@@ -24,7 +24,7 @@ security applications using deep learning techniques including
 program binary analysis, password security analysis, malware
 detection and fraud detection
 
-For more information, [sign up on the mailing list](https://groups.google.com/d/forum/deep-learning-security).
+For more information and future announcements in deep learning and security, [sign up on the mailing list](https://groups.google.com/d/forum/deep-learning-security).
 
 # Schedule
 
