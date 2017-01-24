@@ -250,5 +250,5 @@ a {
 .instructors {
   display: flex;
   justify-content: space-around;
-  padding-bottom: 45px;
+  padding-top: 45px;
 }
