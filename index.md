@@ -64,7 +64,7 @@ For more information and future announcements in deep learning and security, [si
 </div>
 <div class="instructor">
   <a href="https://people.eecs.berkeley.edu/~liuchang/">
-  <div class="instructorphoto"><img src="/assets/people/empty.png" /></div>
+  <div class="instructorphoto"><img src="/assets/people/chang.jpg" /></div>
   <div>Chang Liu</div>
   </a>
 </div>
