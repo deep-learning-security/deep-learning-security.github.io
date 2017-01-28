@@ -9,7 +9,7 @@ The hands-on lab will take place on Feb 19 between 3:30 and 5:00pm.
 
 ## Prerequisites
 
-All students attending the workshop should ensure that they have the following software packages installed and ready to use:
+All students attending the hands-on lab should ensure that they have the following software packages installed and ready to use:
 
 * Python
 * TensorFlow (0.12) with GPU support if available.
