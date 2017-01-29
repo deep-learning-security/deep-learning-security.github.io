@@ -1,13 +1,21 @@
 ---
 layout: page
-title: Hands-on Lab
+title: Hands-on Lab and Hackathon
 ---
 
-# Hands-on Lab
+# Hackathon Schedule
 
-The hands-on lab will take place on Feb 19 between 3:30 and 5:00pm.
+**Feb 19**
 
-## Prerequisites
+**3:30 - 4:30pm** - Hands-on lab and hackathon introduction. *Chang Liu and Jernej Kos.*
+
+**4:30 - 4:00pm Feb 20** - Hackathon
+
+**Feb 20**
+
+**4:00 - 5:00pm** - Team presentation and demo
+
+## Prerequisites and Preparation Instructions
 
 All students attending the hands-on lab should ensure that they have the following software packages installed and ready to use:
 
@@ -22,8 +30,10 @@ All students attending the hands-on lab should ensure that they have the followi
 In addition to installing the packages, students should also familiarize themselves with these tools beforehand. We recommend the following tutorials:
 
 * [TensorFlow Getting Started Tutorial](https://www.tensorflow.org/get_started/basic_usage)
+* [Deep Learning Course](https://www.udacity.com/course/deep-learning--ud730)
+* [Deep Learning Book](http://www.deeplearningbook.org/)
 
-If you would like to instead use some other computing framework or models already prepared for other frameworks, you can find the instructions here:
+If you would like to use some other computing framework or models already prepared for other frameworks in addition to TensorFlow-based models, you can find the instructions here:
 
 * Torch
   * [Installation instructions.](http://torch.ch/docs/getting-started.html)

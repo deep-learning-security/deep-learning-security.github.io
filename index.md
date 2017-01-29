@@ -96,7 +96,5 @@ For more information and future announcements in deep learning and security, [si
 
 **3:00 - 3:30pm** - Break
 
-**3:30 - 5:00pm** - Hands-on lab. *Chang Liu and Jernej Kos.*
-
-**5:00 - 5:00pm Feb 20** - Hackathon
+**3:30 - 5:00pm Feb 20** - [Hands-on lab and hackathon](/hackathon.html). *Chang Liu and Jernej Kos.*
 
