@@ -96,5 +96,5 @@ For more information and future announcements in deep learning and security, [si
 
 **3:00 - 3:30pm** - Break
 
-**3:30 Feb 19 - 5:00pm Feb 20** - [Deep Learning and Security Innovation Hackathon](/hackathon.html). *Chang Liu and Jernej Kos.*
+**3:30 Feb 19 - 5:00pm Feb 20** - [Deep Learning and Security Innovation Hackathon](/hackathon.html).
 
