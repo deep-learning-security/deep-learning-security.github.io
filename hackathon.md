@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Deep Learning and Security Inovation Hackathon
+title: Deep Learning and Security Innovation Hackathon
 ---
 
-# Deep Learning and Security Inovation Hackathon
+# Deep Learning and Security Innovation Hackathon
 
 **Feb 19 3:30 - 4:30pm** - Hands-on lab and hackathon introduction. *Chang Liu and Jernej Kos.*
 
