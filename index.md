@@ -49,7 +49,7 @@ For more information and future announcements in deep learning and security, [si
 </div>
 <div class="instructor">
   <a href="#">
-  <div class="instructorphoto"><img src="/assets/people/empty.png" /></div>
+  <div class="instructorphoto"><img src="/assets/people/zhifeng.jpg" /></div>
   <div>Zhifeng Geng</div>
   </a>
 </div>
@@ -58,7 +58,7 @@ For more information and future announcements in deep learning and security, [si
 <div class="instructors">
 <div class="instructor">
   <a href="#">
-  <div class="instructorphoto"><img src="/assets/people/empty.png" /></div>
+  <div class="instructorphoto"><img src="/assets/people/xiaodong.jpg" /></div>
   <div>Xiaodong Su</div>
   </a>
 </div>
