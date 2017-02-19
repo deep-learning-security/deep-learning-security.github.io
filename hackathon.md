@@ -11,6 +11,8 @@ title: Deep Learning and Security Innovation Hackathon
 
 **Feb 20 3:00 - 4:30pm** - Team presentation and demo
 
+**Feb 20 4:30 - 5:00pm** - Tea break
+
 **Feb 20 5:00 - 5:30pm** - Prize presentation ceremony
 
 ## Prerequisites and Preparation Instructions
