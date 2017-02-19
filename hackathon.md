@@ -7,9 +7,11 @@ title: Deep Learning and Security Innovation Hackathon
 
 **Feb 19 3:30 - 4:30pm** - Hands-on lab and hackathon introduction. *Chang Liu and Jernej Kos.*
 
-**Feb 19 4:30 - 4:00pm Feb 20** - Hackathon
+**Feb 19 4:30 - 3:00pm Feb 20** - Hackathon
 
-**Feb 20 4:00 - 5:00pm** - Team presentation and demo
+**Feb 20 3:00 - 4:30pm** - Team presentation and demo
+
+**Feb 20 5:00 - 5:30pm** - Prize presentation ceremony
 
 ## Prerequisites and Preparation Instructions
 
