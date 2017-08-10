@@ -7,7 +7,7 @@ title: Deep Learning Security Workshop
 
 Deep learning has made huge advances and impact in many
 areas of computer science such as vision, speech, NLP, and
-Robotics. Many exciting research questions lie in the
+robotics. Many exciting research questions lie in the
 intersection of security and deep learning.
 
 **First**, how will these deep learning systems behave in the
@@ -28,73 +28,9 @@ For more information and future announcements in deep learning and security, [si
 
 # Speakers and instructors
 
-**Program chair:** Dawn Song
-
-**Invited speakers:** Lujo Bauer, Zhifeng Geng, Xiaodong Su
-
-**Lab and hackathon instructors:** Chang Liu, Jernej Kos
-
-<div class="instructors">
-<div class="instructor">
-  <a href="https://people.eecs.berkeley.edu/~dawnsong/">
-  <div class="instructorphoto"><img src="/assets/people/dawnsong.jpg" /></div>
-  <div>Dawn Song</div>
-  </a>
-</div>
-<div class="instructor">
-  <a href="https://www.ece.cmu.edu/~lbauer/">
-  <div class="instructorphoto"><img src="/assets/people/lujo.jpg" /></div>
-  <div>Lujo Bauer</div>
-  </a>
-</div>
-<div class="instructor">
-  <a href="#">
-  <div class="instructorphoto"><img src="/assets/people/zhifeng.jpg" /></div>
-  <div>Zhifeng Geng</div>
-  </a>
-</div>
-</div>
-
-<div class="instructors">
-<div class="instructor">
-  <a href="#">
-  <div class="instructorphoto"><img src="/assets/people/xiaodong.jpg" /></div>
-  <div>Xiaodong Su</div>
-  </a>
-</div>
-<div class="instructor">
-  <a href="https://people.eecs.berkeley.edu/~liuchang/">
-  <div class="instructorphoto"><img src="/assets/people/chang.jpg" /></div>
-  <div>Chang Liu</div>
-  </a>
-</div>
-<div class="instructor">
-  <a href="https://unico.re">
-  <div class="instructorphoto"><img src="/assets/people/jernej.png" /></div>
-  <div>Jernej Kos</div>
-  </a>
-</div>
-</div>
+To be determined.
 
 # Schedule
 
-**Feb 19**
-
-**9:00 - 9:10am** - Overview of the workshop. *Dawn Song.*
-
-**9:10 - 10:10am** - Introduction and overview of deep learning and security. *Dawn Song.*
-
-**10:10 - 10:30am** - Break
-
-**10:30 - 12:00** - Introduction and overview of adversarial deep learning. *Chang Liu and Dawn Song.*
-
-**12:00 - 1:00pm** - Lunch
-
-**1:00 - 2:00pm** - Invited talk: [Machine Learning in Computer Security for Fun and Profit: Password Meters, Face Recognition and Online Tracking](/talks.html#machine-learning-in-computer-security-for-fun-and-profit-password-meters-face-recognition-and-online-tracking). *Lujo Bauer.*
-
-**2:00 - 3:00pm** - Invited talk: [Discover Maliciousness Among URLs: A Deep Learning Approach](/talks.html#discover-maliciousness-among-urls-a-deep-learning-approach). *Zhifeng Geng and Xiaodong Su.*
-
-**3:00 - 3:30pm** - Break
-
-**3:30 Feb 19 - 5:00pm Feb 20** - [Deep Learning and Security Innovation Hackathon](/hackathon.html).
+To be determined.
 
