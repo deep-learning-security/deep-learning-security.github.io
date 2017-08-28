@@ -6,3 +6,6 @@ url: "https://deep-learning-security.github.io" # the base hostname & protocol f
 
 # Build settings
 markdown: kramdown
+
+gems:
+  - jekyll-relative-links
