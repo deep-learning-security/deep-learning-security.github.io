@@ -47,7 +47,7 @@ Submission guidelines and deadlines: All talk proposal
 submissions are expected to be in ACM style double-column,
 4-page, 10-point format to merit consideration by the organizers.
 Proposal submissions are due on November 5th, 2017 11:59 pm PST.
-[Leave it to the co-chairs to decide how and where to submit.].
+[TBD]
 The final acceptance notification for the main talks will be
 within one week of the submission deadline. Proposals will be
 judged on novelty, practical relevance and technical depth.
