@@ -52,8 +52,8 @@ The final acceptance notification for the main talks will be
 within one week of the submission deadline. Proposals will be
 judged on novelty, practical relevance and technical depth.
 
-For more information and future announcements in deep learning
-and security, [sign up on the mailing list](https://groups.google.com/d/forum/deep-learning-security-research-forum).
+For more information and future announcements about the
+Research Forum, [sign up on the mailing list](https://groups.google.com/d/forum/deep-learning-security-research-forum).
 
 # Speakers and instructors
 
