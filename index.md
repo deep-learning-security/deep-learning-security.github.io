@@ -28,9 +28,23 @@ For more information and future announcements in deep learning and security, [si
 
 # Speakers and instructors
 
-[Prof. Dawn Song](https://people.eecs.berkeley.edu/~dawnsong/)
+<div class="instructors">
+     <div class="instructor">
+       <a href="https://people.eecs.berkeley.edu/~dawnsong/">
+         <div class="instructorphoto"><img src="https://people.eecs.berkeley.edu/~dawnsong/dawn-berkeley.jpg" width="220"/></div>
+         <div>Dawn Song</div>
+       </a>
+     </div>
+</div>
 
-[Prof. Prateek Saxena](http://www.comp.nus.edu.sg/~prateeks/)
+<div class="instructors">
+     <div class="instructor">
+       <a href="https://people.eecs.berkeley.edu/~dawnsong/">
+         <div class="instructorphoto"><img src="http://www.cs.berkeley.edu/~prateeks/photo-2.jpg" width="220"/></div>
+         <div>Prateek Saxena</div>
+       </a>
+     </div>
+</div>
 
 # Schedule
 

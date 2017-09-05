@@ -5,26 +5,55 @@ title: Deep Learning Security Research Forum
 
 # Overview
 
-Deep learning has made huge advances and impact in many
-areas of computer science such as vision, speech, NLP, and
-robotics. Many exciting research questions lie in the
-intersection of security and deep learning.
+The research forum aims to bring together researchers and
+practitioners, showcasing developments at the intersection of
+deep learning and security. The forum is part of a two-day
+[event](https://deep-learning-security.github.io/) in
+Singapore on Dec 14th and 15th, featuring leading experts
+working in this space. This forum invites submissions for
+'work-in-progress' or short research talks.  Talks can include
+emerging hot topics, preliminary research results, practical
+problems encountered by industry practitioners, lessons
+learned, exciting datasets, and other topics of interest to
+security researchers working in deep learning. The forum
+will be offering scholarships for a number of students
+invited as speakers to cover costs of travel and stay for
+the event. 
 
-**First**, how will these deep learning systems behave in the
-presence of adversaries? Research has shown that many of the
-state-of-the-art deep learning systems can be easily fooled by
-adversarial examples. We will explore fundamental questions in
-this area including what types of attacks are possible on deep
-learning systems, why they exist, and how we can defend
-against them.
+To participate as a speaker, please submit a research talk
+proposal as per the submission guidelines below. Submissions
+can be authored by teams. The organizing committee will
+select a set of finalist teams, who will be invited to
+present their work in-person at the forum. Talks will be
+divided into 3 tracks:
 
-**Second**, how can deep learning techniques help security
-applications? We will explore this area and study example
-security applications using deep learning techniques including
-program binary analysis, password security analysis, malware
-detection and fraud detection
+**Datasets**: Talks showcasing the creation of new datasets
+to spur research activity
 
-For more information and future announcements in deep learning and security, [sign up on the mailing list](https://groups.google.com/d/forum/deep-learning-security).
+**Real-world Applications**: Talks showcasing interesting
+real-world applications of deep learning in security
+
+**Models, Techniques and others:** Talks discussing research
+on new deep learning models, techniques for analysis of
+models, adversarial learning techniques, privacy-preserving
+deep learning, and other topics of interest. 
+
+Presentations in each track will be evaluated for one or more
+awards by the organizing committee. The forum will include an
+evening networking session open to all attendees, invited
+companies, and students from universities in Singapore. 
+
+Submission guidelines and deadlines: All talk proposal
+submissions are expected to be in ACM style double-column,
+4-page, 10-point format to merit consideration by the organizers.
+Proposal submissions are due on November 5th, 2017 11:59 pm PST.
+[Leave it to the co-chairs to decide how and where to submit.].
+The final acceptance notification for the main talks will be
+within one week of the submission deadline. Proposals will be
+judged on novelty, practical relevance and technical depth.
+
+For more information and future announcements in deep learning
+and security, [sign up on the mailing list](https://groups.google.com/d/forum/deep-learning-security-research-forum).
 
 # Speakers and instructors
 
