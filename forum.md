@@ -55,7 +55,7 @@ judged on novelty, practical relevance and technical depth.
 For more information and future announcements about the
 Research Forum, [sign up on the mailing list](https://groups.google.com/d/forum/deep-learning-security-research-forum).
 
-# Speakers and instructors
+# Co-chairs
 
 Jernej Kos, Chang Liu, Zheng Leong Chua
 

@@ -28,7 +28,7 @@ This year we will also have a [Research Forum](forum.md) on Dec 14,
 
 For more information and future announcements in deep learning and security, [sign up on the mailing list](https://groups.google.com/d/forum/deep-learning-security).
 
-# Speakers and instructors
+# Co-chairs
 
 <div class="instructors">
      <div class="instructor">
