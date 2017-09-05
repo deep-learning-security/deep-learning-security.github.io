@@ -24,6 +24,8 @@ security applications using deep learning techniques including
 program binary analysis, password security analysis, malware
 detection and fraud detection
 
+This year we will also have a [Research Forum](forum.md) on Dec 14,
+
 For more information and future announcements in deep learning and security, [sign up on the mailing list](https://groups.google.com/d/forum/deep-learning-security).
 
 # Speakers and instructors
@@ -34,6 +36,8 @@ For more information and future announcements in deep learning and security, [si
          <div class="instructorphoto"><img src="https://people.eecs.berkeley.edu/~dawnsong/dawn-berkeley.jpg" width="220"/></div>
          <div>Dawn Song</div>
        </a>
+     </div>
+     <div class="instructor">
        <a href="http://www.comp.nus.edu.sg/~prateeks/">
          <div class="instructorphoto"><img src="http://www.cs.berkeley.edu/~prateeks/photo-2.jpg" width="220"/></div>
          <div>Prateek Saxena</div>
