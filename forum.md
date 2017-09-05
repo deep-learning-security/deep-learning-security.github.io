@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Deep Learning Security Workshop
+title: Deep Learning Security Research Forum
 ---
 
 # Overview
@@ -28,14 +28,9 @@ For more information and future announcements in deep learning and security, [si
 
 # Speakers and instructors
 
-[Prof. Dawn Song](https://people.eecs.berkeley.edu/~dawnsong/)
-
-[Prof. Prateek Saxena](http://www.comp.nus.edu.sg/~prateeks/)
+Jernej Kos, Chang Liu, Zheng Leong Chua
 
 # Schedule
 
 To be determined.
 
-# Links
-
-[Research Forum](forum.md)
