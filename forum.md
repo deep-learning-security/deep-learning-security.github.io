@@ -20,6 +20,8 @@ will be offering scholarships for a number of students
 invited as speakers to cover costs of travel and stay for
 the event. 
 
+# Participation
+
 To participate as a speaker, please submit a research talk
 proposal as per the submission guidelines below. Submissions
 can be authored by teams. The organizing committee will
@@ -43,11 +45,13 @@ awards by the organizing committee. The forum will include an
 evening networking session open to all attendees, invited
 companies, and students from universities in Singapore. 
 
+# Submission
+
 Submission guidelines and deadlines: All talk proposal
 submissions are expected to be in ACM style double-column,
 4-page, 10-point format to merit consideration by the organizers.
 Proposal submissions are due on November 5th, 2017 11:59 pm PST.
-[TBD]
+[Submission site TBD]
 The final acceptance notification for the main talks will be
 within one week of the submission deadline. Proposals will be
 judged on novelty, practical relevance and technical depth.
