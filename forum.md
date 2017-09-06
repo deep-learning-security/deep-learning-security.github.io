@@ -43,7 +43,7 @@ companies, and students from universities in Singapore.
 
 ## Scholarship and Awards
 
- For accepted short papers, the forum
+For accepted short papers, the forum
 will be offering scholarships for a number of students, researchers, and practitioners
 invited as speakers to cover costs of travel and stay for
 the event. 
@@ -56,9 +56,16 @@ to present their work during the ceremony.
 
 Submission guidelines and deadlines: All talk proposal
 submissions are expected to be in ACM style double-column,
-4-page, 10-point format to merit consideration by the organizers.
+10-point format to merit consideration by the organizers.
+The submission should contain a mainbody with up to 4 pages
+of content, in addition with an unlimited appendix including
+the curriculum vitas of all authors. The CV for each author
+should be limited to 1 page only.
+
 Submissions are due on November 5th, 2017 11:59 pm PST.
-[Submission website is open.](https://easychair.org/conferences/?conf=dlsrf17)
+
+[<span style="color:blue">Submission website is open!</span>](https://easychair.org/conferences/?conf=dlsrf17)
+
 The final acceptance notification for the main talks will be
 within one week of the submission deadline. Submissions will be
 judged on novelty, practical relevance and technical depth.
