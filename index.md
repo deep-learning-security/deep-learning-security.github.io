@@ -48,7 +48,3 @@ For more information and future announcements in deep learning and security, [si
 # Schedule
 
 To be determined.
-
-# Links
-
-[Research Forum](forum.md)

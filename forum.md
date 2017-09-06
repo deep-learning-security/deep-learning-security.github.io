@@ -51,10 +51,12 @@ Submission guidelines and deadlines: All talk proposal
 submissions are expected to be in ACM style double-column,
 4-page, 10-point format to merit consideration by the organizers.
 Proposal submissions are due on November 5th, 2017 11:59 pm PST.
-[Submission site TBD]
+[Submission website is open.](https://easychair.org/conferences/?conf=dlsrf17)
 The final acceptance notification for the main talks will be
 within one week of the submission deadline. Proposals will be
 judged on novelty, practical relevance and technical depth.
+For any questions about submitting a paper, please contact <dlsrf17@easychair.org>
+
 
 For more information and future announcements about the
 Research Forum, [sign up on the mailing list](https://groups.google.com/d/forum/deep-learning-security-research-forum).
