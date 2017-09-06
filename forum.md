@@ -5,7 +5,7 @@ title: Deep Learning Security Workshop
 
 # Research Forum
 
-# Overview
+## Overview
 
 The research forum aims to bring together students, researchers and
 practitioners, showcasing developments at the intersection of
@@ -21,7 +21,7 @@ will be offering scholarships for a number of students
 invited as speakers to cover costs of travel and stay for
 the event. 
 
-# Participation
+## Participation
 
 To participate as a speaker, please submit a research short paper as per the submission guidelines below. Submissions
 can be authored by teams. The organizing committee will
@@ -44,13 +44,13 @@ deep learning, attacks on deep learning systems, and other topics of interest.
 evening networking session open to all attendees, invited
 companies, and students from universities in Singapore. 
 
-# Awards
+## Awards
 
 Presentations in each track will be evaluated for one or more
 awards by the organizing committee. The Award ceremony will take place on Dec 15 during the main workshop event. Awardees will be invited
 to present their work during the ceremony. 
 
-# Submission
+## Submission
 
 Submission guidelines and deadlines: All talk proposal
 submissions are expected to be in ACM style double-column,
@@ -65,13 +65,13 @@ For any questions about submitting a short paper, please contact <dlsrf17@easych
 For more information and future announcements about the
 Research Forum, [sign up on the mailing list](https://groups.google.com/d/forum/deep-learning-security-research-forum).
 
-# Co-chairs
+## Co-chairs
 
 Chang Liu, University of California, Berkeley
 
 Jernej Kos, Zheng Leong Chua, National University of Singapore
 
-# Schedule
+## Schedule
 
 To be determined.
 
