@@ -64,7 +64,7 @@ should be limited to 1 page only.
 
 Submissions are due on November 5th, 2017 11:59 pm PST.
 
-[<span style="color:blue">Submission website is open!</span>](https://easychair.org/conferences/?conf=dlsrf17)
+[<span style="color:red">Submission website is open!</span>](https://easychair.org/conferences/?conf=dlsrf17)
 
 The final acceptance notification for the main talks will be
 within one week of the submission deadline. Submissions will be
