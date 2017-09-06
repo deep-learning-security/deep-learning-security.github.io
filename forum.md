@@ -62,7 +62,6 @@ within one week of the submission deadline. Submissions will be
 judged on novelty, practical relevance and technical depth.
 For any questions about submitting a short paper, please contact <dlsrf17@easychair.org>.
 
-
 For more information and future announcements about the
 Research Forum, [sign up on the mailing list](https://groups.google.com/d/forum/deep-learning-security-research-forum).
 

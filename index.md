@@ -33,7 +33,7 @@ For more information and future announcements in deep learning and security, [si
 <div class="instructors">
      <div class="instructor">
        <a href="https://people.eecs.berkeley.edu/~dawnsong/">
-         <div class="instructorphoto"><img src="https://people.eecs.berkeley.edu/~dawnsong/dawn-berkeley.jpg"/></div>
+         <div class="instructorphoto"><img src="assets/people/dawnsong.jpg"/></div>
          <div>Dawn Song</div>
        </a>
      </div>
