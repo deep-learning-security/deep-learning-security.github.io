@@ -24,7 +24,7 @@ the event.
 To participate as a speaker, please submit a research short paper as per the submission guidelines below. Submissions
 can be authored by teams. The organizing committee will
 select a set of finalist teams, who will be invited to
-present their work in-person at the forum on Dec 14 and a lightning talk and a poster session on Dec 15. Submissions will be
+present their work in-person at the forum on Dec 14 and during the lightning talk and  poster session on Dec 15. Submissions will be
 divided into 3 tracks:
 
 **Datasets**: Showcasing the creation of new datasets
@@ -38,11 +38,15 @@ on new deep learning models, techniques for analysis of
 models, adversarial learning techniques, privacy-preserving
 deep learning, attacks on deep learning systems, and other topics of interest. 
 
-
-Presentations in each track will be evaluated for one or more
-awards by the organizing committee. The forum will include an
+ The forum will include an
 evening networking session open to all attendees, invited
 companies, and students from universities in Singapore. 
+
+# Awards
+
+Presentations in each track will be evaluated for one or more
+awards by the organizing committee. The Award ceremony will take place on Dec 15 during the main workshop event. Awardees will be invited
+to present their work during the ceremony. 
 
 # Submission
 
