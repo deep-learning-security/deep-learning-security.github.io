@@ -3,6 +3,8 @@ layout: page
 title: Deep Learning Security Workshop
 ---
 
+# Deep Learning Security Workshop Research Forum
+
 # Overview
 
 The research forum aims to bring together students, researchers and
@@ -58,7 +60,7 @@ Submissions are due on November 5th, 2017 11:59 pm PST.
 The final acceptance notification for the main talks will be
 within one week of the submission deadline. Submissions will be
 judged on novelty, practical relevance and technical depth.
-For any questions about submitting a short paper, please contact <dlsrf17@easychair.org>
+For any questions about submitting a short paper, please contact <dlsrf17@easychair.org>.
 
 
 For more information and future announcements about the
@@ -66,7 +68,9 @@ Research Forum, [sign up on the mailing list](https://groups.google.com/d/forum/
 
 # Co-chairs
 
-Jernej Kos, Chang Liu, Zheng Leong Chua
+Chang Liu, University of California, Berkeley
+
+Jernej Kos, Zheng Leong Chua, National University of Singapore
 
 # Schedule
 

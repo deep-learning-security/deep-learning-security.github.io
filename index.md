@@ -22,7 +22,7 @@ against them.
 applications? We will explore this area and study example
 security applications using deep learning techniques including
 program binary analysis, password security analysis, malware
-detection and fraud detection
+detection and fraud detection.
 
 This year we will also have a [Research Forum](forum.md) on Dec 14. Submission deadline is on Nov 5, 2017.
 
