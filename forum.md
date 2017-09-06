@@ -26,7 +26,7 @@ the event.
 To participate as a speaker, please submit a research short paper as per the submission guidelines below. Submissions
 can be authored by teams. The organizing committee will
 select a set of finalist teams, who will be invited to
-present their work in-person at the forum on Dec 14 and during the lightning talk and  poster session on Dec 15. Submissions will be
+present their work in-person at the forum on Dec 14 and during the lightning talk and  poster session on Dec 15. Submissions and talks will be
 divided into 3 tracks:
 
 **Datasets**: Showcasing the creation of new datasets
