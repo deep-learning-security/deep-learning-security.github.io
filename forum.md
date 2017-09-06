@@ -16,10 +16,7 @@ Singapore on Dec 14th and 15th. This forum invites submissions for
 emerging hot topics, preliminary research results, practical
 problems encountered by industry practitioners, lessons
 learned, exciting datasets, and other topics of interest to
-security researchers working in deep learning. The forum
-will be offering scholarships for a number of students
-invited as speakers to cover costs of travel and stay for
-the event. 
+security researchers working in deep learning.
 
 ## Participation
 
@@ -44,9 +41,14 @@ deep learning, attacks on deep learning systems, and other topics of interest.
 evening networking session open to all attendees, invited
 companies, and students from universities in Singapore. 
 
-## Awards
+## Scholarship and Awards
 
-Presentations in each track will be evaluated for one or more
+ For accepted short papers, the forum
+will be offering scholarships for a number of students, researchers and practitioners
+invited as speakers to cover costs of travel and stay for
+the event. 
+
+In addition, presentations in each track will be evaluated for one or more
 awards by the organizing committee. The Award ceremony will take place on Dec 15 during the main workshop event. Awardees will be invited
 to present their work during the ceremony. 
 
