@@ -44,7 +44,7 @@ companies, and students from universities in Singapore.
 ## Scholarship and Awards
 
  For accepted short papers, the forum
-will be offering scholarships for a number of students, researchers and practitioners
+will be offering scholarships for a number of students, researchers, and practitioners
 invited as speakers to cover costs of travel and stay for
 the event. 
 
