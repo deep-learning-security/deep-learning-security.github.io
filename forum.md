@@ -3,7 +3,7 @@ layout: page
 title: Deep Learning Security Workshop
 ---
 
-# Deep Learning Security Workshop Research Forum
+# Research Forum
 
 # Overview
 
