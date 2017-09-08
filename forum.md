@@ -84,3 +84,8 @@ Jernej Kos, Zheng Leong Chua, National University of Singapore
 
 To be determined.
 
+
+# Sponsors
+
+![Sponsors](assets/logo/banner.png)
+
