@@ -48,3 +48,8 @@ For more information and future announcements in deep learning and security, [si
 # Schedule
 
 To be determined.
+
+# Sponsors
+
+![Sponsors](assets/logo/banner.png)
+
