@@ -74,6 +74,10 @@ For any questions about submitting a short paper, please contact <dlsrf17@easych
 For more information and future announcements about the
 Research Forum, [sign up on the mailing list](https://groups.google.com/d/forum/deep-learning-security-research-forum).
 
+## Award Committee
+
+Reza Shokari, National University of Singapore (Chair)
+
 ## Co-chairs
 
 Chang Liu, University of California, Berkeley
