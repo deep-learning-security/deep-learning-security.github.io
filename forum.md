@@ -76,7 +76,7 @@ Research Forum, [sign up on the mailing list](https://groups.google.com/d/forum/
 
 ## Award Committee
 
-Reza Shokari, National University of Singapore (Chair)
+Reza Shokri, National University of Singapore (Chair)
 
 ## Co-chairs
 
