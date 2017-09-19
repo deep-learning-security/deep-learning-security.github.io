@@ -1,3 +1,9 @@
+
+---
+layout: page
+title: Deep Learning Security Workshop
+---
+
 Speakers
 ===================
 
