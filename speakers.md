@@ -5,7 +5,7 @@ title: Deep Learning Security Workshop
 
 <style>
 .tablelines table, .tablelines td, .tablelines th {
-        border: 0px solid black;
+        border: none;
         }
 </style>
 
