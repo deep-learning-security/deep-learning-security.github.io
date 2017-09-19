@@ -1,5 +1,6 @@
 Speakers
 ===================
+
 | | | |
 |-|-|-|
 |<img src="https://unify.id/images/John.jpeg" width=200> | __John Whaley__ <br> UnifyID |
