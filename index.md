@@ -48,19 +48,19 @@ For more information and future announcements in deep learning and security, [si
 # Schedule
 
 
-|               | 15th December 2017                                                                                                              |
-|---------------|---------------------------------------------------------------------------------------------------------------------------------|
-| 09:00 - 09:30 | Introduction                                                                                                                    |
-| 09:30 - 10:20 | Keynote Speech (Le Song)                                                                                                        |
-| 10:40 - 11:20 | An Implementation of Web Application Firewall Based on a Deep Neural Network Detection Engine - Liang Shi, Tianlong Liu, Min Ye |
-| 11:20 - 12:00 | Presentation by John Whaley                                                                                                     |
-| 12:00 - 12:15 | Lightning Talks #1                                                                                                              |
-| 12:15 - 13:30 | Poster Session #1 and Lunch                                                                                                     |
-| 13:30 - 14:10 | Presentation by Reza Shokri                                                                                                     |
-| 14:10 - 14:50 | Adversarial Deep Learning: Attacks and Defenses - Ian Fischer                                                                   |
-| 14:50 - 15:00 | Coffee Break                                                                                                                    |
-| 15:00 - 15:40 | Research Forum Award Ceremony and Short Presentations                                                                           |
-| 15:40 - 16:00 | Lightning Talks #2                                                                                                              |
+|               | 15th December 2017                                                                                                                 |
+|---------------|------------------------------------------------------------------------------------------------------------------------------------|
+| 09:00 - 09:30 | Introduction                                                                                                                       |
+| 09:30 - 10:20 | Keynote Speech (Le Song)                                                                                                           |
+| 10:40 - 11:20 | An Implementation of Web Application Firewall Based on a Deep Neural Network Detection Engine <br> Liang Shi, Tianlong Liu, Min Ye |
+| 11:20 - 12:00 | Presentation <br> John Whaley                                                                                                      |
+| 12:00 - 12:15 | Lightning Talks #1                                                                                                                 |
+| 12:15 - 13:30 | Poster Session #1 and Lunch                                                                                                        |
+| 13:30 - 14:10 | Presentation <br> Reza Shokri                                                                                                      |
+| 14:10 - 14:50 | Adversarial Deep Learning: Attacks and Defenses <br> Ian Fischer                                                                   |
+| 14:50 - 15:00 | Coffee Break                                                                                                                       |
+| 15:00 - 15:40 | Research Forum Award Ceremony and Short Presentations                                                                              |
+| 15:40 - 16:00 | Lightning Talks #2                                                                                                                 |
 | 16:00 - 18:00 | Poster Session #2 and Reception        
 
 
