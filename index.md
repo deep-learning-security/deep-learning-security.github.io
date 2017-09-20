@@ -47,6 +47,7 @@ For more information and future announcements in deep learning and security, [si
 
 # Schedule
 
+[Link to Speakers page](https://deep-learning-security.github.io/speakers)
 
 |               | 15th December 2017                                                                                                                 |
 |---------------|------------------------------------------------------------------------------------------------------------------------------------|
