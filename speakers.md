@@ -28,4 +28,4 @@ Speakers
 |---|---|---|
 |{::nomarkdown}<img src="https://d1qb2nb5cznatu.cloudfront.net/users/397970-medium_jpg?1405630157" width=200/> {:/} | **Ian Fischer**<br> Google Research |
 {: .tablelines}
-> Lorem Ipsum
+> Ian Fischer is a Machine Learning researcher at Google.  His recent work spans topics in computer vision, adversarial machine learning and robustness, generative models, and reinforcement learning.
