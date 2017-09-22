@@ -29,3 +29,10 @@ Speakers
 |{::nomarkdown}<img src="https://d1qb2nb5cznatu.cloudfront.net/users/397970-medium_jpg?1405630157" width=200/> {:/} | **Ian Fischer**<br> Google Research |
 {: .tablelines}
 > Ian Fischer is a Machine Learning researcher at Google.  His recent work spans topics in computer vision, adversarial machine learning and robustness, generative models, and reinforcement learning.
+
+|   |   |   |
+|---|---|---|
+|{::nomarkdown}<img src="https://www.ece.utexas.edu/sites/default/files/speakers/RezaShokri.jpg" width=200/> {:/} | **Reza Shokri**<br> National University of Singapore |
+{: .tablelines}
+> Reza Shokri is a computer science assistant professor at National University of Singapore. He is an active member of the security and privacy community, and his research focuses on data and computational privacy. He received his PhD from EPFL.
+
