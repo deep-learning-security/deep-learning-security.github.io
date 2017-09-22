@@ -28,6 +28,8 @@ This year we will also have a [Research Forum](forum.md) on Dec 14. Submission d
 
 For more information and future announcements in deep learning and security, [sign up on the mailing list](https://groups.google.com/d/forum/deep-learning-security).
 
+If you're interested, do head over to our [registration page](http://sgcsc.sg/event-2017-12-cybercamp.html) to register for the event.
+
 # Co-chairs
 
 <div class="instructors">
