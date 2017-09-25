@@ -26,3 +26,14 @@ classification models e.g., trained by commercial "machine learning
 as a service" providers such as Google and Amazon
 
 *Reza Shokri*
+
+
+Adversarial Deep Learning: Attacks and Defenses
+===============================================
+
+Deep Learning models are vulnerable to adversarial attacks, which can reliably cause the models to misbehave, for example convincing an image classifier that an image of a cat is actually a dog.  We will discuss some of the recent attacks and attempts at defending against such attacks, and look at how adversarial attacks may be harnessed to improve the robustness of Deep Learning models.
+
+*Ian Fischer*
+
+
+
