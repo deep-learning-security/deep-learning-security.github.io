@@ -55,7 +55,7 @@ For more information and future announcements in deep learning and security, [si
 |---------------|------------------------------------------------------------------------------------------------------------------------------------------|
 | 09:00 - 09:30 | Introduction                                                                                                                             |
 | 09:30 - 10:20 | **Keynote Speech** <br> *Le Song*                                                                                                        |
-| 10:40 - 11:20 | [**An Implementation of Web Application Firewall Based on a Deep Neural Network Detection Engine**](#shi) <br> *Liang Shi, Tianlong Liu, Min Ye* |
+| 10:40 - 11:20 | [**An Implementation of Web Application Firewall Based on a Deep Neural Network Detection Engine**](speakers#shi) <br> *Liang Shi, Tianlong Liu, Min Ye* |
 | 11:20 - 12:00 | Presentation <br> John Whaley                                                                                                            |
 | 12:00 - 12:15 | Lightning Talks #1                                                                                                                       |
 | 12:15 - 13:30 | Poster Session #1 and Lunch                                                                                                              |
