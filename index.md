@@ -55,11 +55,11 @@ For more information and future announcements in deep learning and security, [si
 |---------------|------------------------------------------------------------------------------------------------------------------------------------------|
 | 09:00 - 09:30 | Introduction                                                                                                                             |
 | 09:30 - 10:20 | **Keynote Speech** <br> *Le Song*                                                                                                        |
-| 10:40 - 11:20 | [**An Implementation of Web Application Firewall Based on a Deep Neural Network Detection Engine**](talks#an-implementation-of-web-application-firewall-based-on-a-deep-nerual-network-detection-engine) <br> *Liang Shi, Tianlong Liu, Min Ye* |
+| 10:40 - 11:20 | [**An Implementation of Web Application Firewall Based on a Deep Neural Network Detection Engine**](talks#shi) <br> *Liang Shi, Tianlong Liu, Min Ye* |
 | 11:20 - 12:00 | Presentation <br> John Whaley                                                                                                            |
 | 12:00 - 12:15 | Lightning Talks #1                                                                                                                       |
 | 12:15 - 13:30 | Poster Session #1 and Lunch                                                                                                              |
-| 13:30 - 14:10 | [**Data Privacy in Machine Learning**](talks#) <br> *Reza Shokri*                                                                                  |
+| 13:30 - 14:10 | [**Data Privacy in Machine Learning**](talks#reza) <br> *Reza Shokri*                                                                                  |
 | 14:10 - 14:50 | [**Adversarial Deep Learning: Attacks and Defenses**](talks#ian) <br> *Ian Fischer*                                                                   |
 | 14:50 - 15:00 | Coffee Break                                                                                                                             |
 | 15:00 - 15:40 | Research Forum Award Ceremony and Short Presentations                                                                                    |
