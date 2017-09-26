@@ -14,8 +14,7 @@ Most enterprises provide Web services open to the public and thus are prone to W
 
 
 <a name='reza'></a>
-Data Privacy in Machine Learning
-================================
+##Data Privacy in Machine Learning
 
 I will talk about what machine learning privacy is, and will discuss
 how and why machine learning models leak information about the
@@ -31,8 +30,7 @@ as a service" providers such as Google and Amazon
 
 
 <a name='ian'></a>
-Adversarial Deep Learning: Attacks and Defenses
-===============================================
+##Adversarial Deep Learning: Attacks and Defenses
 
 Deep Learning models are vulnerable to adversarial attacks, which can reliably cause the models to misbehave, for example convincing an image classifier that an image of a cat is actually a dog.  We will discuss some of the recent attacks and attempts at defending against such attacks, and look at how adversarial attacks may be harnessed to improve the robustness of Deep Learning models.
 
