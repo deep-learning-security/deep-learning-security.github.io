@@ -59,8 +59,8 @@ For more information and future announcements in deep learning and security, [si
 | 11:20 - 12:00 | Presentation <br> John Whaley                                                                                                            |
 | 12:00 - 12:15 | Lightning Talks #1                                                                                                                       |
 | 12:15 - 13:30 | Poster Session #1 and Lunch                                                                                                              |
-| 13:30 - 14:10 | **Data Privacy in Machine Learning** <br> *Reza Shokri*                                                                                  |
-| 14:10 - 14:50 | **Adversarial Deep Learning: Attacks and Defenses** <br> *Ian Fischer*                                                                   |
+| 13:30 - 14:10 | [**Data Privacy in Machine Learning**](talks#reza) <br> *Reza Shokri*                                                                                  |
+| 14:10 - 14:50 | [**Adversarial Deep Learning: Attacks and Defenses**](talks#ian) <br> *Ian Fischer*                                                                   |
 | 14:50 - 15:00 | Coffee Break                                                                                                                             |
 | 15:00 - 15:40 | Research Forum Award Ceremony and Short Presentations                                                                                    |
 | 15:40 - 16:00 | Lightning Talks #2                                                                                                                       |
