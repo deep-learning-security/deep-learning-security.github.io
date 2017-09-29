@@ -48,6 +48,10 @@ For more information and future announcements in deep learning and security, [si
      </div>
 </div>
 
+# Registration
+
+If you're interested, do head over to our [registration page](http://sgcsc.sg/event-2017-12-cybercamp.html) to register for the event.
+
 # Schedule
 
 
@@ -55,6 +59,7 @@ For more information and future announcements in deep learning and security, [si
 |---------------|------------------------------------------------------------------------------------------------------------------------------------------|
 | 09:00 - 09:30 | Introduction                                                                                                                             |
 | 09:30 - 10:20 | **Keynote Speech** <br> *Le Song*                                                                                                        |
+| 10:20 - 10:40 | Coffee Break                                                                                                                             |
 | 10:40 - 11:20 | [**An Implementation of Web Application Firewall Based on a Deep Neural Network Detection Engine**](talks#shi) <br> *Liang Shi, Tianlong Liu, Min Ye* |
 | 11:20 - 12:00 | Presentation <br> John Whaley                                                                                                            |
 | 12:00 - 12:15 | Lightning Talks #1                                                                                                                       |
@@ -66,9 +71,6 @@ For more information and future announcements in deep learning and security, [si
 | 15:40 - 16:00 | Lightning Talks #2                                                                                                                       |
 | 16:00 - 18:00 | Poster Session #2 and Reception        
 
-# Registration
-
-If you're interested, do head over to our [registration page](http://sgcsc.sg/event-2017-12-cybercamp.html) to register for the event.
 
 # Sponsors
 
