@@ -1,0 +1,567 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+
+	<meta charset="utf-8">
+	<!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge"><![endif]-->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+	<title>Deep Learning Workshop 2017</title>
+
+	<link rel="shortcut icon" href="assets/img/favicon.html">
+	<link rel="apple-touch-icon" href="assets/img/apple-touch-icon.html">
+	<link rel="apple-touch-icon" sizes="72x72" href="assets/img/apple-touch-icon-72x72.html">
+	<link rel="apple-touch-icon" sizes="114x114" href="assets/img/apple-touch-icon-114x114.html">
+
+	<link rel="stylesheet" type="text/css" href="assets/css/custom-animations.css" />
+	<link rel="stylesheet" type="text/css" href="assets/css/style.css" />
+
+	<!--[if lt IE 9]>
+		<script src="assets/js/html5shiv.js"></script>
+		<script src="assets/js/respond.min.js"></script>
+	<![endif]-->
+</head>
+
+<body>
+	<div class="preloader-mask">
+		<div class="preloader"></div>
+	</div>
+
+
+	<header class="header header-black">
+		<div class="header-wrapper">
+			<div class="container">
+				<div class="col-sm-2 col-xs-12 navigation-header">
+					<a href="#" class="logo">
+						<img src="assets/img/logo.png" alt="DLSW17" width="119" height="17" class="retina-hide">
+						<img src="assets/img/logo.png" alt="DLSW17" width="119" height="17" class="retina-show">
+					</a>
+					<button class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navigation" aria-expanded="false" aria-controls="navigation">
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</button>
+				</div>
+
+				<div class="col-sm-10 col-xs-12 navigation-container">
+					<div id="navigation" class="navbar-collapse collapse">
+						<ul class="navigation-list pull-left light-text">
+							<li class="navigation-item"><a href="#about" class="navigation-link">About</a></li>
+							<li class="navigation-item"><a href="#participate" class="navigation-link">Participate</a></li>
+							<li class="navigation-item"><a href="#submissions" class="navigation-link">Submissions</a></li>
+							<li class="navigation-item"><a href="#scholarship" class="navigation-link">Scholarships and Awards</a></li>
+							<li class="navigation-item"><a href="#contacts" class="navigation-link">Contacts</a></li>
+						</ul>
+
+						<a href="http://sgcsc.sg/event-2017-12-cybercamp.html" class="pull-right buy-btn">Register</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</header>
+
+	<section id="about" class="section align-center">
+		<div class="container">
+			<span class="icon section-icon icon-office-49"></span>
+
+			<h3>Research forum</h3>
+			<div class="col-sm-12 align-left">
+			<p>The research forum aims to bring together students, researchers and practitioners, showcasing developments at the intersection of deep learning and security. The forum is part of a two-day event in Singapore on Dec 14th and 15th.</p> 
+			
+			<p>This forum invites submissions for ‘work-in-progress’ or short research talks. Talks can include emerging hot topics, preliminary research results, practical problems encountered by industry practitioners, lessons learned, exciting datasets, and other topics of interest to security researchers working in deep learning.</p>
+			
+			<p>The forum will include an evening networking session open to all attendees, invited companies, and students from universities in Singapore.</p>
+			<p>For more information and future announcements about the Research Forum, sign up on the mailing list.</p>
+			<div class="btns-container">
+				<a href="https://groups.google.com/d/forum/deep-learning-security-research-forum" class="btn btn-md">Research Forum Mailing List</a>
+			</div>
+			<br />
+			<br />
+			<div class="container-fluid align-center">
+				<h6>Research Forum Co-chairs</h6>
+				<br />
+				<br />
+				<div class="col-sm-4">
+					<div class="speaker">
+						<div class="photo-wrapper rounded"><img src="assets/img/speakers/changliu.jpg" alt="John Doe" class="img-responsive"></div>
+						<h3 class="name">Chang Liu</h3>
+						<p class="about">University of California, Berkeley</p>
+						<ul class="speaker-socials">
+						</ul>
+					</div>
+				</div>
+				<div class="col-sm-4">
+					<div class="speaker">
+						<div class="photo-wrapper rounded"><img src="assets/img/speakers/jernej.jpg" alt="John Doe" class="img-responsive"></div>
+						<h3 class="name">Jernej Kos</h3>
+						<p class="about">National University of Singapore</p>
+						<ul class="speaker-socials">
+						</ul>
+					</div>
+				</div>
+				<div class="col-sm-4">
+					<div class="speaker">
+						<div class="photo-wrapper rounded"><img src="assets/img/speakers/czl.jpg" alt="John Doe" class="img-responsive"></div>
+						<h3 class="name">Zheng Leong Chua</h3>
+						<p class="about">National University of Singapore</p>
+						<ul class="speaker-socials">
+							<li><a href="https://www.facebook.com/chuazl87"><span class="fa fa-facebook"></span></a></li>
+						</ul>
+					</div>
+				</div>
+				<br />
+				<div class="row"></div>
+				<div class="row"></div>
+				<div class="row"></div>
+			</div>
+		</div>
+	</section>
+
+	<section id="participate" class="section align-center">
+		<div class="container">
+			<div class="col-sm-12 align-left">
+				<h6>Research Forum Participation</h6>
+				<p>To participate as a speaker, please submit a research short paper as per the submission guidelines below. Submissions can be authored by teams. The organizing committee will select a set of finalist teams, who will be invited to present their work in-person at the forum on Dec 14 and during the lightning talk and poster session on Dec 15. Submissions and talks will be divided into 3 tracks:</p>
+				<ul>
+					<li><strong>Datasets:</strong> Showcasing the creation of new datasets to spur research activity</li>
+					<li><strong>Real-world Applications:</strong> Showcasing interesting real-world applications of deep learning in security</li>
+					<li><strong>Models, Techniques, Attacks, and others:</strong> Showcasing research on new deep learning models, techniques for analysis of models, adversarial learning techniques, privacy-preserving deep learning, attacks on deep learning systems, and other topics of interest.</li>
+				</ul>
+			</div>
+		</div>
+	</section>
+
+	<section id="submissions" class="section align-center">
+		<div class="container">
+			<div class="col-sm-12 align-left">
+				<h6>Submissions</h6>
+				<p>Submission guidelines and deadlines: All talk proposal submissions are expected to be in ACM style double-column, 10-point format to merit consideration by the organizers. The submission should contain a mainbody with up to 4 pages of content, in addition with an unlimited appendix including the curriculum vitas of all authors. The CV for each author should be limited to 1 page only.</p>
+
+				<p>Submissions are due on <strong>November 5th, 2017 23:59 PST</strong>.</p>
+
+				<p>The final acceptance notification for the main talks will be within one week of the submission deadline. Submissions will be judged on novelty, practical relevance and technical depth. For any questions about submitting a short paper, please contact <span class="highlight">dlsrf17@easychair.org</span>. </p>
+			</div>
+			<div class="btns-container">
+				<a href="https://easychair.org/conferences/?conf=dlsrf17" class="btn btn-md">Make a Submission</a>
+			</div>
+		</div>
+	</section>
+
+	<section id="scholarship" class="section align-center">
+		<div class="container">
+						<div class="col-sm-12 align-left">
+							<h6>Scholarships and Awards</h6>
+							<p>For accepted short papers, the forum will be offering scholarships for a number of students, researchers, and practitioners invited as speakers to cover costs of travel and stay for the event.</p>
+							<p>In addition, presentations in each track will be evaluated for one or more awards by the organizing committee. The Award ceremony will take place on Dec 15 during the main workshop event. Awardees will be invited to present their work during the ceremony.</p>
+							<br />
+							<br />
+						</div>
+						<br />
+						<br />
+						<div class="container-fluid">
+							<h6>Award Committee</h6>
+							<br />
+							<br />
+				
+							<div class="col-sm-3">
+								<div class="speaker">
+									<div class="photo-wrapper rounded"><img src="assets/img/speakers/reza.jpg" alt="John Doe" class="img-responsive"></div>
+									<h3 class="name">Reza Shokri</h3>
+									<p class="text-alt"><small>Chair</small></p>
+									<p class="about">National University of Singapore</p>
+									<ul class="speaker-socials">
+										<li><a href="#"><span class="fa fa-facebook"></span></a></li>
+										<li><a href="#"><span class="fa fa-twitter"></span></a></li>
+										<li><a href="#"><span class="fa fa-google-plus"></span></a></li>
+									</ul>
+								</div>
+							</div>
+							<div class="col-sm-3">
+								<div class="speaker">
+									<div class="photo-wrapper rounded"><img src="assets/img/speakers/changliu.jpg" alt="John Doe" class="img-responsive"></div>
+									<h3 class="name">Chang Liu</h3>
+									<p class="text-alt"><small></small></p>
+									<p class="about">University of California, Berkeley</p>
+									<ul class="speaker-socials">
+										<li><a href="#"><span class="fa fa-facebook"></span></a></li>
+										<li><a href="#"><span class="fa fa-twitter"></span></a></li>
+										<li><a href="#"><span class="fa fa-google-plus"></span></a></li>
+									</ul>
+								</div>
+							</div>
+							<div class="col-sm-3">
+								<div class="speaker">
+									<div class="photo-wrapper rounded"><img src="assets/img/speakers/jernej.jpg" alt="John Doe" class="img-responsive"></div>
+									<h3 class="name">Jernej Kos</h3>
+									<p class="text-alt"><small></small></p>
+									<p class="about">National University of Singapore</p>
+									<ul class="speaker-socials">
+										<li><a href="#"><span class="fa fa-facebook"></span></a></li>
+										<li><a href="#"><span class="fa fa-twitter"></span></a></li>
+										<li><a href="#"><span class="fa fa-google-plus"></span></a></li>
+									</ul>
+								</div>
+							</div>
+							<div class="col-sm-3">
+								<div class="speaker">
+									<div class="photo-wrapper rounded"><img src="assets/img/speakers/czl.jpg" alt="John Doe" class="img-responsive"></div>
+									<h3 class="name">Zheng Leong Chua</h3>
+									<p class="text-alt"><small></small></p>
+									<p class="about">National University of Singapore</p>
+									<ul class="speaker-socials">
+										<li><a href="#"><span class="fa fa-facebook"></span></a></li>
+										<li><a href="#"><span class="fa fa-twitter"></span></a></li>
+										<li><a href="#"><span class="fa fa-google-plus"></span></a></li>
+									</ul>
+								</div>
+							</div>
+						</div>
+		</div>
+	</section>
+
+
+	<section id="schedule" class="section schedule-section align-center">
+		<div class="container">
+			<span class="icon section-icon icon-office-21"></span>
+			<h3>Schedule</h3>
+			<p class="text-alt">Our programme for the event</p>
+			<br />
+			<br />
+			<div class="col-md-10 col-md-offset-1">
+
+				<!-- Schedule start -->
+				<div class="row schedule">
+
+					<!-- Navigation by day start -->
+					<ul class="nav nav-schedule">
+						<li class="active"><a href="#schedule3_day1" data-toggle="tab"><h5 class="highlight">Research Forum</h5><p class="text-alt">14/12/2017</p></a></li>
+					</ul>
+					<!-- Navigation by day end -->
+
+					<!-- First level content start -->
+					<div class="tab-content">
+
+						<!-- Day 1 content start -->
+						<div id="schedule3_day1" class="tab-pane fade active in">
+
+							<!-- Second level content start -->
+							<div class="tab-content tab-content-schedule">
+
+								<!-- Main content start -->
+								<div id="schedule3_day1_main" class="tab-pane fade active in">
+
+									<!-- Accordion start -->
+									<div class="panel-group" id="schedule3_day1_main_timeline">
+
+
+										<!-- Lecture start -->
+										<div class="panel schedule-item">
+											<a data-toggle="collapse" data-parent="#schedule3_day1_main_timeline" href="#schedule3_day1_main_time1" class="schedule-item-toggle">
+												<strong class="time highlight"><span class="icon icon-office-24"></span>09:30 - 17:00</strong>
+												<h6 class="title">Research Forum presentations<i class="icon icon-arrows-06"></i></h6>
+											</a>
+											<div id="schedule3_day1_main_time1" class="panel-collapse collapse schedule-item-body">
+												<article>
+													<p class="description"></p>
+													<strong class="highlight speaker-name"></strong>
+												</article>
+											</div>
+										</div>
+										<!-- Lecture end -->
+
+										<!-- Lecture start -->
+										<div class="panel schedule-item">
+											<a class="schedule-item-toggle collapsed">
+												<strong class="time highlight"><span class="icon icon-office-24"></span>17:30 - 19:00</strong>
+												<h6 class="title">Reception<i class="icon icon-arrows-06"></i></h6>
+											</a>
+										</div>
+										<!-- Lecture end -->
+
+									</div>
+									<!-- Accordion end -->
+
+								</div>
+								<!-- Main content end -->
+
+							</div>
+							<!-- Second level content end -->
+
+						</div>
+						<!-- Day 1 content end -->
+
+					</div>
+					<!-- First level content end -->
+
+				</div>
+				<!-- Schedule end -->
+			</div>
+
+		</div>
+
+	</section>
+
+	<section id="register" class="section overlay overlay-clr bg-cover bg_sg light-text align-center">
+		<div class="container">
+			<h2>Register to Deep Learning Security Workshop 2017 now!</h2>
+			
+			<br />
+			<br />
+
+			<a href="http://sgcsc.sg/event-2017-12-cybercamp.html" class="btn btn-lg btn-outline">Register</a>
+		</div>
+	</section>
+
+	<section id="sponsors" class="section align-center">
+		<div class="container">
+			<span class="icon section-icon icon-documents-bookmarks-12"></span>
+			<h3>Sponsors</h3>
+			<br/>
+			<br/>
+			<div class="col-sm-12">
+				<img src="assets/img/sponsors/sgcsc.png" alt=""></div>
+
+		</div>
+	</section>
+
+	<section id="contacts">
+		<div class="contacts-wrapper">
+			<div id="contacts-map" class="map" data-settings="map-settings.json" style="height:560px;"></div>
+
+			<div class="container contacts-on-map-container">
+				<div class="contacts-on-map">
+					<h3>Location</h3>
+
+					<ul class="list">
+						<li><i class="fa fa-map-marker"></i>NUS School of Computing, COM1, 13 Computing Drive, Singapore 117417</li>
+						<li><i class="fa fa-envelope"></i>some@email.com</li>
+						<!--
+						<li><i class="fa fa-phone"></i>(518) 457-5181 10001</li>
+						<li><i class="fa fa-clock-o"></i>7:30 - 22:00</li>
+						-->
+					</ul>
+				</div>
+			</div>
+		</div>
+	</section>
+
+
+	<div class="modal-window" data-modal="ian-details" style="background-color: rgba(2, 2, 2, 0.85);">
+		<div class="modal-box animated" data-animation="zoomIn" data-duration="700">
+            <span class="close-btn icon icon-office-52"></span>
+			<div class="speaker">
+				<div class="photo-wrapper rounded"><img src="assets/img/speakers/ian.jpg" alt="Ian Fischer" class="img-responsive"></div>
+				<h3 class="name">Ian Fischer</h3>
+				<p class="text-alt"><small>Google Research</small></p>
+				<p class="about">Ian Fischer is a Machine Learning researcher at Google. His recent work spans topics in computer vision, adversarial machine learning and robustness, generative models, and reinforcement learning.</p>
+				<ul class="speaker-socials">
+					<li><a href="#"><span class="fa fa-facebook"></span></a></li>
+					<li><a href="#"><span class="fa fa-twitter"></span></a></li>
+					<li><a href="#"><span class="fa fa-google-plus"></span></a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+
+	<div class="modal-window" data-modal="john-details" style="background-color: rgba(2, 2, 2, 0.85);">
+		<div class="modal-box animated" data-animation="zoomIn" data-duration="700">
+            <span class="close-btn icon icon-office-52"></span>
+			<div class="speaker">	
+				<div class="photo-wrapper rounded"><img src="assets/img/speakers/john.jpg" alt="John Whaley" class="img-responsive"></div>
+				<h3 class="name">John Whaley</h3>
+				<p class="text-alt"><small>UnifyID</small></p>
+				<p class="about">John Whaley is Founder and CEO of UnifyID. He was previously Founder and CTO of Moka5, and was a Visiting Lecturer in Computer Science at Stanford. He is an expert in computer security and has spoken at numerous conferences and industry events. He holds a doctorate in computer science from Stanford University, where he made key contributions to the fields of program analysis, compilers, and virtual machines. He is the winner of numerous awards including the Arthur L. Samuel Thesis Award for Best Thesis at Stanford, and has worked at IBM’s T.J. Watson Research Center and Tokyo Research Lab. John was named one of the top 15 programmers in the USA Computing Olympiad. He also holds bachelor’s and master’s degrees in computer science from MIT.</p>
+
+				<ul class="speaker-socials">
+					<li><a href="#"><span class="fa fa-facebook"></span></a></li>
+					<li><a href="#"><span class="fa fa-twitter"></span></a></li>
+					<li><a href="#"><span class="fa fa-google-plus"></span></a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+
+	<div class="modal-window" data-modal="le-details" style="background-color: rgba(2, 2, 2, 0.85);">
+		<div class="modal-box animated" data-animation="zoomIn" data-duration="700">
+            <span class="close-btn icon icon-office-52"></span>
+			<div class="speaker">	
+				<div class="photo-wrapper rounded"><img src="assets/img/speakers/le.jpg" alt="Le Song" class="img-responsive"></div>
+				<h3 class="name">Le Song</h3>
+				<p class="text-alt"><small>Georgia Institute of Technology</small></p>
+				<p class="about">Le Song is an Associate Professor in the Department of Computational Science and Engineering, College of Computing, and an Associate Director of the Center for Machine Learning, Georgia Institute of Technology. Le is also working in the Ant Financial AI Department on risk management and security related problems. He received his Ph.D. in Machine Learning from University of Sydney and NICTA in 2008, and then conducted his post-doctoral research in the Department of Machine Learning, Carnegie Mellon University, between 2008 and 2011. Before he joined Georgia Institute of Technology in 2011, he was a research scientist at Google briefly. His principal research direction is machine learning, especially nonlinear models, such as kernel methods and deep learning, and probabilistic graphical models for large scale and complex problems, arising from artificial intelligence, network analysis and other interdisciplinary domains. He is the recipient of the Recsys’16 Deep Learning Workshop Best Paper Award, AISTATS’16 Best Student Paper Award, IPDPS’15 Best Paper Award, NSF CAREER Award’14, NIPS’13 Outstanding Paper Award, and ICML’10 Best Paper Award. He has also served as the area chair or senior program committee for many leading machine learning and AI conferences such as ICML, NIPS, AISTATS, AAAI and IJCAI. He is also the action editor for JMLR, and associate editor for IEEE PAMI.</p>
+
+				<ul class="speaker-socials">
+					<li><a href="#"><span class="fa fa-facebook"></span></a></li>
+					<li><a href="#"><span class="fa fa-twitter"></span></a></li>
+					<li><a href="#"><span class="fa fa-google-plus"></span></a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+
+	<div class="modal-window" data-modal="liangshi-details" style="background-color: rgba(2, 2, 2, 0.85);">
+		<div class="modal-box animated" data-animation="zoomIn" data-duration="700">
+            <span class="close-btn icon icon-office-52"></span>
+			<div class="speaker">	
+				<div class="photo-wrapper rounded"><img src="assets/img/speakers/liangshi.jpg" alt="Liang Shi" class="img-responsive"></div>
+				<h3 class="name">Liang Shi</h3>
+				<p class="text-alt"><small>Alibaba Cloud Security</small></p>
+				<p class="about">Liang Shi, currently a Staff Expert&Manager of Security Data Science team from Alibaba Clound Security, worked as Sr. Data Scientist for Pivotal, Sr. Security Researcher for Intel Security, and Software Engnineer for Microsoft. He concentrates on security R&D by machine learning and data mining. He got his Ph.D. in computer science and M.S. in statistics from University of Georgia.</p>
+
+				<ul class="speaker-socials">
+					<li><a href="#"><span class="fa fa-facebook"></span></a></li>
+					<li><a href="#"><span class="fa fa-twitter"></span></a></li>
+					<li><a href="#"><span class="fa fa-google-plus"></span></a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+
+	<div class="modal-window" data-modal="minye-details" style="background-color: rgba(2, 2, 2, 0.85);">
+		<div class="modal-box animated" data-animation="zoomIn" data-duration="700">
+            <span class="close-btn icon icon-office-52"></span>
+			<div class="speaker">	
+				<div class="photo-wrapper rounded"><img src="assets/img/speakers/minye.jpg" alt="Min Ye" class="img-responsive"></div>
+				<h3 class="name">Min Ye</h3>
+				<p class="text-alt"><small>Alibaba Cloud Security</small></p>
+				<p class="about">Min Ye is a Senior Security Expert at Alibaba Cloud. He leads Alibaba Cloud’s security research team, which has done extensive research on security attacks and defenses to improve their security products. His fields of interest include intrusion detection and prevention, web security, malware analysis, and security dada analysis. Currently he is mainly focused on applying machine learning to attack and malware detection.</p>
+
+				<ul class="speaker-socials">
+					<li><a href="#"><span class="fa fa-facebook"></span></a></li>
+					<li><a href="#"><span class="fa fa-twitter"></span></a></li>
+					<li><a href="#"><span class="fa fa-google-plus"></span></a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+
+	<div class="modal-window" data-modal="reza-details" style="background-color: rgba(2, 2, 2, 0.85);">
+		<div class="modal-box animated" data-animation="zoomIn" data-duration="700">
+            <span class="close-btn icon icon-office-52"></span>
+			<div class="speaker">	
+				<div class="photo-wrapper rounded"><img src="assets/img/speakers/reza.jpg" alt="Reza Shokri" class="img-responsive"></div>
+				<h3 class="name">Rezar Shokri</h3>
+				<p class="text-alt"><small>National University of Singapore</small></p>
+				<p class="about">Reza Shokri is a computer science assistant professor at National University of Singapore. He is an active member of the security and privacy community, and his research focuses on data and computational privacy. He received his PhD from EPFL.</p>
+
+				<ul class="speaker-socials">
+					<li><a href="#"><span class="fa fa-facebook"></span></a></li>
+					<li><a href="#"><span class="fa fa-twitter"></span></a></li>
+					<li><a href="#"><span class="fa fa-google-plus"></span></a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+
+	<div class="modal-window" data-modal="tianlongliu-details" style="background-color: rgba(2, 2, 2, 0.85);">
+		<div class="modal-box animated" data-animation="zoomIn" data-duration="700">
+            <span class="close-btn icon icon-office-52"></span>
+			<div class="speaker">	
+				<div class="photo-wrapper rounded"><img src="assets/img/speakers/tianlongliu.jpg" alt="Tianlong Liu" class="img-responsive"></div>
+				<h3 class="name">Tianlong Liu</h3>
+				<p class="text-alt"><small>Alibaba Cloud Security</small></p>
+				<p class="about">Tianlong Liu is a Senior Algorithm Engineer working in Alibaba Cloud Security.The primary area of focus for his work has been in machine learning and deep learning. He got his M.S. in software engineering from South China University of Technology.</p>
+
+				<ul class="speaker-socials">
+					<li><a href="#"><span class="fa fa-facebook"></span></a></li>
+					<li><a href="#"><span class="fa fa-twitter"></span></a></li>
+					<li><a href="#"><span class="fa fa-google-plus"></span></a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+
+	<div class="modal-window" data-modal="email-ticket" style="background-color: rgba(2, 2, 2, 0.85);">
+		<div class="modal-box small animated" data-animation="zoomIn" data-duration="700">
+			<span class="close-btn icon icon-office-52"></span>
+
+			<h5 class="align-center"><span class="highlight">Event Registration</span></h5>
+
+			<form class="form registration-form align-center">
+
+				<fieldset class="col-sm-12">
+					<label for="first_name">First Name</label>
+					<input id="first_name" name="first_name" type="text">
+				</fieldset>
+
+				<fieldset class="col-sm-12">
+					<label for="last_name">Last Name</label>
+					<input id="last_name" name="last_name" type="text">
+				</fieldset>
+
+				<fieldset class="col-sm-12">
+					<label for="email">Email</label>
+					<input id="email" name="email" type="email">
+				</fieldset>
+
+				<fieldset class="col-sm-6">
+					<label for="pass1">Ticket type</label>
+					<select id="pass1" name="pass1">
+						<option value="" selected disabled>-- Select --</option>
+						<option value="0">Early Bird</option>
+						<option value="1">Silver Pass</option>
+						<option value="2">Gold Pass</option>
+						<option value="3">Ultimate Mega Ultra Legendary Pass</option>
+					</select>
+				</fieldset>
+
+				<fieldset class="col-sm-6">
+					<label for="pass2"># tickets</label>
+					<select id="pass2" name="pass2">
+						<option value="a">Variant A</option>
+						<option value="b">Variant B</option>
+						<option value="c">Variant C</option>
+						<option value="d">Variant D</option>
+						<option value="e">Variant E</option>
+						<option value="f" disabled>Variant F</option>
+						<option value="g">Variant G</option>
+						<option value="h">Variant H</option>
+						<option value="i">Variant I</option>
+						<option value="j">Variant J</option>
+						<option value="k">Variant K</option>
+						<option value="l">Variant L</option>
+						<option value="m">Variant M</option>
+					</select>
+				</fieldset>
+
+				<fieldset class="col-sm-12">
+					<input id="privacy" name="privacy" type="checkbox"><label for="privacy">I read & agree with <a href="#">Terms of service</a> </label>
+					<br />
+					<br />
+				</fieldset>
+
+				<input type="submit" value="submit" class="btn">
+			</form>
+
+		</div>
+	</div>
+
+	<div class="modal-window" data-modal="0" style="background-color: rgba(2, 2, 2, 0.85);">
+		<div class="modal-box iframe-box iframe-video">
+			<span class="close-btn icon icon-office-52"></span>
+
+			<iframe src="https://www.youtube.com/embed/goH-Pv1w6xo?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+		</div>
+	</div>
+
+	<!--[if lt IE 9]>
+		<script type="text/javascript" src="assets/js/jquery-1.11.3.min.js?ver=1"></script>
+	<![endif]-->
+	<!--[if (gte IE 9) | (!IE)]><!-->
+		<script type="text/javascript" src="assets/js/jquery-2.1.4.min68b3.js?ver=1"></script>
+	<!--<![endif]-->
+
+	<script src="https://maps.googleapis.com/maps/api/js?v=3&amp;libraries=places"></script>
+	<script type="text/javascript" src="assets/js/bootstrap.min.js"></script>
+	<script type="text/javascript" src="assets/js/jquery.validate.min.js"></script>
+	<script type="text/javascript" src="assets/js/toastr.min.js"></script>
+	<script type="text/javascript" src="assets/js/jquery.waypoints.min.js"></script>
+	<script type="text/javascript" src="assets/js/jquery.appear.js"></script>
+	<script type="text/javascript" src="assets/js/jquery.plugin.js"></script>
+	<script type="text/javascript" src="assets/js/jquery.countTo.js"></script>
+	<script type="text/javascript" src="assets/js/masonry.pkgd.min.js"></script>
+	<script type="text/javascript" src="assets/js/modal-box.js"></script>
+	<script type="text/javascript" src="assets/js/ventcamp.js"></script>
+</body>
+
+</html>

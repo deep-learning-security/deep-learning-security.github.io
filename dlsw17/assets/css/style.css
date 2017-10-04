@@ -3567,7 +3567,9 @@ button.btn.btn-block {
   width: 0;
   display: block;
   content: "";
+  /*
   border-right: 1px solid #eff1f5;
+  */
 }
 .schedule .tab-content-schedule .panel-group {
   margin-bottom: 0;
@@ -3576,9 +3578,40 @@ button.btn.btn-block {
   position: relative;
   margin-bottom: 22px;
   min-height: 65px;
+  padding: 0 0 0 5px;
+  /*
   padding: 0 0 0 104px;
+  */
   background-color: transparent;
 }
+.schedule-test {
+  position: relative;
+  margin-bottom: 22px;
+  min-height: 65px;
+  padding: 20px 0 0 5px;
+  text-align: center;
+  /*
+  padding: 0 0 0 104px;
+  */
+  background-color: rgba(254, 73, 24, 0.85);
+}
+
+.schedule-test2 {
+  position: relative;
+  margin-bottom: 22px;
+  min-height: 65px;
+  padding: 20px 0 0 5px;
+  text-align: center;
+  /*
+  padding: 0 0 0 104px;
+  */
+  background-color: transparent; 
+}
+
+.schedule-test > h6 {
+  color: #ffffff;
+}
+
 .schedule .tab-content-schedule .schedule-item:last-child {
   margin-bottom: 0;
 }
